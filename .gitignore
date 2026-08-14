@@ -1,0 +1,29 @@
+# Virtual environments
+sar_venv/
+venv/
+.venv/
+
+# Trained models - too large for normal GitHub
+G_model/
+D_model/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
